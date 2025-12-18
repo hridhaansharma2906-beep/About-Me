@@ -2,11 +2,7 @@
 
 <p>I really like <em>coding</em> languages like HTML and Python!</p>
 
-<p>I live in the UK and I am 11 years old!</p>
-
-<p>I have been fascinated by languages since I was young, However I didn't know how to <em>write</em> with them.<p/>
-
-<p>Until I came across Claude the AI, it helped me make this text as you are reading this, Thank you!!!<p/>
+<p>Recently I learnt HTML which has proven useful to me<p/>
 
 <button>Accept</button>
 <button>Decline</button>
