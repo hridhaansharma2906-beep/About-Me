@@ -1,6 +1,6 @@
 <u>ABOUT ME!</u>
 
-<p>I really like <em>coding</em> languages like HTML and Python!</p>
+<p>I really like languages like HTML and Python!</p>
 
 <p>Recently I learnt HTML which has proven useful to me<p/>
 
