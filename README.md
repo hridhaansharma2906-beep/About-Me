@@ -1,4 +1,4 @@
-<u><h1>ABOUT ME!</h1></u>
+<u>ABOUT ME!</u>
 
 <p>I really like <em>coding</em> languages like HTML and Python!</p>
 
