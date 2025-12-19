@@ -21,3 +21,5 @@
 HTML is super easy for absolute beginners<br> like me for example, its easy to learn,non-complex, easy to read and efficient.<br> Think of a house, <strong><em>HTML</em></strong> is the structure and <strong><em>CSS</em></strong> is the paint and <strong><em>JavaScript</em></strong> adds interactivity, which I want to learn!</p>
 
 <img src="https://cdn.mos.cms.futurecdn.net/VGtvK7hSsQRNvgvKAkLVgf-1200-80.jpg" width="400" height=200>
+<footer>
+    <p>© 2026 About-Me!</p>
