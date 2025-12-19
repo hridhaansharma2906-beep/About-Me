@@ -21,5 +21,21 @@
 HTML is super easy for absolute beginners<br> like me for example, its easy to learn,non-complex, easy to read and efficient.<br> Think of a house, <strong><em>HTML</em></strong> is the structure and <strong><em>CSS</em></strong> is the paint and <strong><em>JavaScript</em></strong> adds interactivity, which I want to learn!</p>
 
 <img src="https://cdn.mos.cms.futurecdn.net/VGtvK7hSsQRNvgvKAkLVgf-1200-80.jpg" width="400" height=200>
+<u><h2>How to do HTML?</h2></u>
+
+<p>HTML is super easy to learn!<br>
+Just learn the tags and their attributes!<br>
+For example, to make a paragraph, use the tag p, if you want to break a line, use the tag!<br>
+, to make a heading use the tag h1,h2,h3 etc.<br>
+To make a link use the tag a with the attribute href.<br>
+To make a button use the tag button.<br>
+To make an image use the tag img with the attribute src.<br>
+To make text bold use the tag strong.<br>
+To make text italic use the tag em.<br>
+To make a horizontal line use the tag hr.<br>
+To make a footer use the tag footer.<br>
+Happy coding!</p>
+
+<p>I hope more people will learn HTML!</p>
 <footer>
     <p>© 2026 About-Me!</p>
