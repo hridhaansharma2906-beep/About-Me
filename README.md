@@ -37,5 +37,6 @@ To make a footer use the tag footer.<br>
 Happy coding!</p>
 
 <p>I hope more people will learn HTML!</p>
+<u><h2>So, whats next for this website?</h2></u>
 <footer>
     <p>© 2026 About-Me!</p>
