@@ -36,7 +36,7 @@ To make a horizontal line use the tag hr.<br>
 To make a footer use the tag footer.<br>
 Happy coding!</p>
 
-<u></u><h2>Things I find interesting!</h2></u>
+<u><h2>Things I find interesting!</h2></u>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
