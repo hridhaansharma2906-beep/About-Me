@@ -26,7 +26,7 @@ HTML is super easy for absolute beginners<br> like me for example, its easy to l
 <p>HTML is super easy to learn!<br>
 Just learn the tags and their attributes!<br>
 For example, to make a paragraph, use the tag p, if you want to break a line, use the tag!<br>
-To make a heading use the tag h1,h2,h3 etc.<br>
+, to make a heading use the tag h1,h2,h3 etc.<br>
 To make a link use the tag a with the attribute href.<br>
 To make a button use the tag button.<br>
 To make an image use the tag img with the attribute src.<br>
@@ -36,13 +36,25 @@ To make a horizontal line use the tag hr.<br>
 To make a footer use the tag footer.<br>
 Happy coding!</p>
 
-<p>I hope more people will learn HTML!</p>
-<u><h2>So, whats next for this website?</h2></u>
+<u></u><h2>Things I find interesting!</h2></u>
 <ul>
-<li>Item1</li>
-    <li>Item2</li>
-    
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Roblox</li>
+<li>Claude</li>
+<li>AI in general</li>
+<li>Web Development</li>
+<li>Coding!</li>
+<li>Technology!</li>
+<li>Science!</li>
+<li>Watching YouTube</li>
+<li>Gaming!</li>
 </ul>
-    
+
+<p>I hope more people will learn HTML!</p>
 <footer>
     <p>© 2026 About-Me!</p>
+
+
